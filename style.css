@@ -1,0 +1,53 @@
+body {
+    background-image: url("/heyhey.jpg");
+}
+.main_block{
+    background-image: url("/heyhey.jpg");
+    width: 20%;
+    height: 60%;
+    position: fixed;
+    left: 40%;
+    top: 20%;
+    text-align: center;
+    box-shadow: 5px 10px 5px 10px;
+}
+#header{
+    position: relative;
+    color: white;
+    left: 2%;
+    font-size: 40px;
+    text-decoration: underline;
+}
+#count{
+    position: relative;
+    color: black;
+    top: 15%;
+    left: 0%;
+    font-size: 30px;
+}
+.button_up{
+    position: relative;
+    top: 20%;
+    left: 26%;
+    border: none;
+    padding-bottom: 2%;
+    padding-right: 5%;
+    padding-top: 2%;
+    background-color: greenyellow;
+    text-align: center;
+    padding-left: 5%;
+    font-size: 25px;
+}
+.button_down{
+    position: relative;
+    top: 40%;
+    left: -22%;
+    border: none;
+    padding-bottom: 2%;
+    padding-right: 5%;
+    padding-top: 2%;
+    background-color: royalblue;
+    text-align: center;
+    padding-left: 5%;
+    font-size: 25px;
+}
